@@ -1,0 +1,7 @@
+lake	Chrysosphaerella brevispina 	C. coronacircumspina	C. longispina	Chrysosphaerella sp.	Paraphysomonas bandaiensis	P. gladiata	P. vestita 	Paraphysomonas sp.	Mallomonas akrokomos	Ì. alata f. alata 	M. alata f. hualvensis	M. caudata 	M. crassisquama 	M. crassiquama var. papillosa 	M. heterospina	M. insignis 	M. striata var. striata	M. tonsurata	Chrysodidymus synuroideus	Spiniferomonas abei	S. bilacunosa	S. bourrellyi	S. cornuta	S. crusigera	S. serrata	S. triangularis	S. trioralis f. trioralis	S. trioralis f. cuspidata	Spiniferomonas  sp. 	Synura echinulata f. leptorrhabda	S. petersenii f. petersenii	S. petersenii f. kufferathii	S. punctulosa	S. spinosa 
+Ledyanaya Gora	0	1	0	0	0	1	0	0	1	1	0	0	1	2	0	0	0	3	0	1	2	2	3	2	0	1	2	0	0	0	0	0	0	0
+Karaul village	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Ladyginskie Yary 	1	0	0	0	1	0	1	1	1	0	0	1	1	1	0	2	1	0	0	0	0	0	0	0	1	0	1	2	0	2	2	2	0	0
+Sopochnaya Karga  	1	3	3	1	0	1	1	0	3	2	0	0	2	0	0	1	1	0	0	1	2	2	1	0	1	0	2	2	1	2	0	0	1	1
+Sibiryakov Island, Srednee Lake	0	0	0	0	0	0	0	0	0	0	1	1	0	0	2	1	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1
+Chernyi Bay	0	0	0	0	0	1	1	0	2	0	0	0	2	3	2	0	0	0	1	0	1	1	1	0	0	0	1	0	0	2	2	3	0	2
